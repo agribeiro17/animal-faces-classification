@@ -1,0 +1,9 @@
+torch>=2.1,<2.3
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+kaggle
+opendatasets
+torchinfo
