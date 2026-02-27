@@ -1,2 +1,4 @@
 data/**/*.jpg
+data/**/*.png
+
 data/animal-faces.zip
